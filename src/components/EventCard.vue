@@ -17,5 +17,7 @@ export default {
 <style scoped>
 h4 {
   color: green;
+  border: 1px solid #ccc;
+  padding-left: 10px;
 }
 </style>
